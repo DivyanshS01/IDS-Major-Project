@@ -23,7 +23,7 @@ The system captures live network packets using Scapy, processes them through tra
 
 ## Architecture
 
-
+'''text
 Network Traffic
        ↓
 Packet Capture (Scapy)
@@ -43,6 +43,7 @@ Detection Engine
 Alert Generation
        ↓
 Dashboard Visualization
+'''
 
 ---
 
